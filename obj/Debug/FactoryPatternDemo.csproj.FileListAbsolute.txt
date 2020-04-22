@@ -1,0 +1,6 @@
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe.config
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.pdb
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.csprojAssemblyReference.cache
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.exe
+C:\Users\ekkoe\Desktop\C# Projects\Projelerim\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.pdb
